@@ -491,7 +491,8 @@ ol li:hover a, .active{
 	}
 	.banner-items {
 		margin: 400px 0 auto auto;
-		margin-left: 4%;
+		margin-left: 15%;
+		text-align: center;
 	}
 	.default-btn {
 		margin-left: 15%;
@@ -553,6 +554,7 @@ ol li:hover a, .active{
 	.content-news {
 		width: 96%;
 		margin-top: 20px;
+		margin-bottom: 25px;
 	}
 
 	.box {
