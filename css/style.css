@@ -382,7 +382,8 @@ ol li:hover a, .active{
 
 }
 .jamil-link {
-	font-size: 18px;
+	font-size: 14px;
+	font-weight: 600;
 }
 .footer p {
 	margin-top: 250px;
