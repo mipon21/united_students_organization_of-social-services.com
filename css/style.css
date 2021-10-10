@@ -434,6 +434,7 @@ ol li:hover a, .active{
 	}
 	#res-menu:checked ~ label #sign-two {
 		display: block;
+		margin-top: 12px;
 	}
 	.logo {
 		max-width: 100%;
